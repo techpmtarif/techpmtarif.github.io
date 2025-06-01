@@ -1,4 +1,4 @@
-baseURL = "http://haquetarif.github.io/"
+baseURL = "https://techpmtarif.github.io/"
 title = "Tarif Haque"
 theme = "PaperMod"
 enableInlineShortcodes = true
